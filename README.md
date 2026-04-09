@@ -79,8 +79,8 @@ El código ha sido diseñado de forma modular para facilitar su adaptación a ot
 
 A través del análisis realizado en el Notebook, se pueden obtener métricas como:
 
-  **- Top 10 Empresas con más vacantes:** Identificación de los principales empleadores en el sector.
+     **- Top 10 Empresas con más vacantes:** Identificación de los principales empleadores en el sector.
   
-  **- Distribución Geográfica:** Mapa de calor de las ciudades con mayor oferta.
+     **- Distribución Geográfica:** Mapa de calor de las ciudades con mayor oferta.
   
-  **- Análisis de Modalidad:** Porcentaje de ofertas 100% remoto vs. modelos híbridos.
+     **- Análisis de Modalidad:** Porcentaje de ofertas 100% remoto vs. modelos híbridos.
