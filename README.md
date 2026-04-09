@@ -5,7 +5,9 @@ Este proyecto es un **Pipeline de Datos completo (ETL)** diseñado para extraer,
 
 El objetivo principal es identificar qué empresas están contratando más, qué ciudades lideran la demanda y qué modalidades de trabajo (remoto/híbrido) son predominantes en el sector tecnológico.
 
+
 ---
+
 
 ## Características Técnicas
 - **Extracción (Scraping):**
@@ -19,7 +21,9 @@ El objetivo principal es identificar qué empresas están contratando más, qué
 - **Visualización de Datos:**
      - Generación de insights mediante un **Jupyter Notebook** interactivo con gráficas de tendencias.
 
+
 ---
+
 
 ## Stack Tecnológico
 
@@ -27,7 +31,9 @@ El objetivo principal es identificar qué empresas están contratando más, qué
 - **Librerías:** `Pandas`, `BeautifulSoup4`, `Requests`, `Matplotlib`, `SQLite3`
 - **Entorno:** `VS Code` / `Jupyter Notebooks`
 
+
 ---
+
 
 ## Estructura del Proyecto
 
@@ -42,7 +48,9 @@ JOB-INSIGHTS-SCRAPER/
 └── requirements.txt
 ```
 
+
 ---
+
 
 ## Instalación y Uso
 
@@ -58,7 +66,9 @@ JOB-INSIGHTS-SCRAPER/
    ```bash
    python buscador_tecnoempleo.py
 
+
 ---
+
 
 ## Adaptar este ScrapeR a otros portales de empleo
 
@@ -73,7 +83,9 @@ El código ha sido diseñado de forma modular para facilitar su adaptación a ot
   3. **Ajuste de URL:**
        - Modifica la estructura de la URL base y el parámetro de paginación (ej: `&page=` en lugar de `&pagina=`).
 
+
 ---
+
 
 ## Visualizaciones e Insights
 
