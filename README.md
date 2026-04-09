@@ -32,7 +32,7 @@ El objetivo principal es identificar qué empresas están contratando más, qué
 ## Estructura del Proyecto
 
 ```
-BUSCADOR_EMPLEO/
+JOB-INSIGHTS-SCRAPER/
 ├── buscador_tecnoempleo.py
 ├── data/
 │   ├── empleos_tech.db
