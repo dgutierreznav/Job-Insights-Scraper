@@ -9,7 +9,7 @@ El objetivo principal es identificar qué empresas están contratando más, qué
 
 ## Características Técnicas
 - **Extracción (Scraping):**
-      - Uso de `BeautifulSoup` y `Requests` con gestión de cabeceras para una extracción eficiente y ética.
+     - Uso de `BeautifulSoup` y `Requests` con gestión de cabeceras para una extracción eficiente y ética.
 - **Paginación Automática:**
      - Capacidad para escalar el scraping a múltiples páginas de resultados de forma iterativa.
 - **Transformación de Datos (Cleaning):**
@@ -80,5 +80,7 @@ El código ha sido diseñado de forma modular para facilitar su adaptación a ot
 A través del análisis realizado en el Notebook, se pueden obtener métricas como:
 
   **- Top 10 Empresas con más vacantes:** Identificación de los principales empleadores en el sector.
+  
   **- Distribución Geográfica:** Mapa de calor de las ciudades con mayor oferta.
+  
   **- Análisis de Modalidad:** Porcentaje de ofertas 100% remoto vs. modelos híbridos.
