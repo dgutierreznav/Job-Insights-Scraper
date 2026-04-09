@@ -37,7 +37,7 @@ El objetivo principal es identificar qué empresas están contratando más, qué
 
 ## Estructura del Proyecto
 
-```
+`
 JOB-INSIGHTS-SCRAPER/
 ├── buscador_tecnoempleo.py
 ├── data/
@@ -46,7 +46,7 @@ JOB-INSIGHTS-SCRAPER/
 ├── notebooks/
 │   └── analisis_visual.ipynb
 └── requirements.txt
-```
+`
 
 
 ---
@@ -66,7 +66,7 @@ JOB-INSIGHTS-SCRAPER/
    ```bash
    python buscador_tecnoempleo.py
 
-
+   
 ---
 
 
