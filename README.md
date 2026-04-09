@@ -56,7 +56,7 @@ JOB-INSIGHTS-SCRAPER/
 
 3. Ejecuta el extractor de datos:
    ```bash
-   python src/buscador_tecnoempleo.py
+   python buscador_tecnoempleo.py
 
 ---
 
