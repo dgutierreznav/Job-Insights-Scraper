@@ -1,4 +1,4 @@
-# Job-Insights-Scraper
+# Job Insights Scraper
 
 ## Descripción
 Este proyecto es un **Pipeline de Datos completo (ETL)** diseñado para extraer, procesar y analizar ofertas de empleo para el perfil de **Data Analyst**. El sistema automatiza la recopilación de datos desde portales de empleo (actualmente configurado para Tecnoempleo), limpia la información mediante técnicas de ingeniería de datos y la almacena de forma estructurada para su posterior análisis.
