@@ -64,14 +64,14 @@ JOB-INSIGHTS-SCRAPER/
 
 El código ha sido diseñado de forma modular para facilitar su adaptación a otras webs de empleo (LinkedIn, Indeed, etc.):
   
-  **1. Mapeo de Clases**:
-     - Identifica el contenedor principal de la oferta y las clases de los elementos (título, empresa, info).
+  **1. Mapeo de Clases:**
+       - Identifica el contenedor principal de la oferta y las clases de los elementos (título, empresa, info).
       
-  **2. Actualización de Selectores**:
-     - Cambia los parámetros en la función `extraer_datos_oferta` (etiquetas `div`, `a`, `span`).
+  **2. Actualización de Selectores:**
+       - Cambia los parámetros en la función `extraer_datos_oferta` (etiquetas `div`, `a`, `span`).
       
-  **3. Ajuste de URL**:
-     - Modifica la estructura de la URL base y el parámetro de paginación (ej: `&page=` en lugar de `&pagina=`).
+  **3. Ajuste de URL:**
+       - Modifica la estructura de la URL base y el parámetro de paginación (ej: `&page=` en lugar de `&pagina=`).
 
 ---
 
