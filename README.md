@@ -56,7 +56,7 @@ JOB-INSIGHTS-SCRAPER/
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/Job-Insights-Scraper.git](https://github.com/TU_USUARIO/Job-Insights-Scraper.git)
+   git clone https://github.com/dgutierreznav/Job-Insights-Scraper.git
 
 2. Instala las librerías necesarias:
    ```bash
